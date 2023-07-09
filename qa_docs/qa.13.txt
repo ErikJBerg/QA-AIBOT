@@ -1,0 +1,2 @@
+GIBT ES EINE FUNKTION "GELD ANFORDERN"?
+Eine derartige Funktion steht in RaiPay nicht zur Verfügung.

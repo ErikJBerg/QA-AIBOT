@@ -1,0 +1,4 @@
+KANN ICH DIE RAIPAY PIN IM NACHHINEIN NOCH ÄNDERN?
+Sollte Ihre RaiPay PIN ausgespäht worden sein, so können Sie diese in den Einstellungen unter
+"Sicherheit und PIN" ändern oder wahlweise ein biometrisches Erkennungsmerkmal (z.B.
+Fingerabdruck) aktivieren.

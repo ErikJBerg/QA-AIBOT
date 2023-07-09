@@ -1,0 +1,5 @@
+Warum wird die physische Kartennummer nicht auf den Rechnungen aufgedruckt?
+Wenn Sie mit Ihrer digitalen Debitkarte bezahlen, so hat Ihre digitale Debitkarteeine digitale
+Kartennummer. Die letzten 4 Stellen dieser digitalen Kartennummer finden Sie in den
+Kartendetails Ihrer Karte in RaiPay und können diese 4 Stellen mit den letzten 4 Stellen der
+Kartennummer am Kassenbon vergleichen.

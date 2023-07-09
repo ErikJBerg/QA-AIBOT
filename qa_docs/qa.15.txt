@@ -1,0 +1,4 @@
+KANN ICH JEDE KARTE ZU RAIPAY HINZUFÜGEN?
+Derzeit können Sie alle Raiffeisen Debitkarten (Maestro oder Debit Mastercard) und Raiffeisen
+Kreditkarten in RaiPay verwenden. Raiffeisen Kreditkarten von PayLife und CardComplete
+werden nicht von RaiPay unterstützt.

@@ -1,0 +1,7 @@
+Block Card
+A card can be blocked if the user lost it or if it got stolen.
+In order to block a card, the operator needs to get the brand of the card, the last 4-digit
+numbers and the expiration date. Additionally, the operator must obtain the reason for blocking (lost / stolen)
+Once all information are obtained, make an api call to https://blockcard.fake with all
+parameters as a json dictionary.
+The api returns “success” or “failure”

@@ -1,0 +1,4 @@
+WERDEN ALLE MEINE KARTEN IN DER RAIPAY APP ANGEZEIGT?
+In RaiPay werden alle Karten angezeigt, für die Sie Karteninhaber:in sind. Sie können aber
+wahlweise nur jene Karten für die NFC Bezahlung (Android) aktivieren, die Sie für mobiles
+Bezahlen verwenden möchten.

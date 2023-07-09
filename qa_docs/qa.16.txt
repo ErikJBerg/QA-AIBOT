@@ -1,0 +1,14 @@
+KANN ICH MEHRERE KARTEN DER GLEICHEN ART IN DER APPLIKATION SPEICHERN?
+Ja, Sie können mehrere von Ihrer Raiffeisenbank ausgegebene Debit- oder Raiffeisen
+Kreditkarten in RaiPay anzeigen sowie für die Bezahlung aktivieren. Sie können die Karten in der
+Anwendung anhand ihres Bildes und ihres Kartentyps oder anhand der letzten vier Ziffern der
+Kartennummer unterscheiden. In der Detailansicht Ihrer Karte, zu der Sie durch ein Tippen auf
+die jeweilige Karte gelangen, können Sie den Namen der Karte ändern.
+Für eine Bezahlung wird immer jene Karte verwendet, die als Standardkarte für Zahlungen
+festgelegt wurde. Die Standardkarte kann in der Kartendetailansicht geändert werden. Es sei
+denn, Sie öffnen die Anwendung im Vordergrund und wählen eine andere Karte aus und starten
+die Bezahlung mit „Jetzt bezahlen“
+Karte schnell im Zuge des Zahlvorgangs ändern: Wenn Sie im Zuge Ihres Einkaufes eine andere
+als Ihre Standardkarte verwenden möchten, öffnen Sie einfach die RaiPay App und navigieren
+zur gewünschten Karte im „Karten Karussell“. Durch Starten der Bezahlung mittels Tippens auf
+„Jetzt bezahlen“ wird die gewählte Karte einmalig zur Zahlung verwendet.

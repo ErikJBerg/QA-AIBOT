@@ -1,0 +1,7 @@
+IST ES NOTWENDIG JEDE NEUE KARTE ZU VERIFIZIEREN, DIE IN RAIPAY HINZUGEFÜGT
+WIRD?
+Sobald Sie eine weitere physische Karte von Ihrer Bank erhalten, so ist diese automatisch in
+RaiPay ersichtlich, sobald Sie die physische Karte das erste Mal an einem POS oder
+Geldautomaten durch die Eingabe Ihrer PIN aktivieren. Eine Aktivierung der Karte für mobiles
+Bezahlen erfolgt mittels „Digitale Karte aktivieren“ unter Bestätigung mittels RaiPay PIN in der
+RaiPay App.

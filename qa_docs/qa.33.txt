@@ -1,0 +1,5 @@
+WARUM IST RAIPAY NICHT MIT DEM ENTWICKLER:INNENMODUS AUF MEINEM SMARTPHONE KOMPATIBEL?
+Die aktuellen Sicherheitseinstellungen der RaiPay App erlauben keine App Nutzung mit
+aktiviertem Entwickler:innenmodus am Smartphone. Wir arbeiten aber bereits an einer
+zukünftigen Aufhebung dieser Einschränkung um das RaiPay Nutzererlebnis für unsere
+Kund:innen noch weiter zu verbessern.

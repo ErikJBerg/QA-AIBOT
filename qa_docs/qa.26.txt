@@ -1,0 +1,6 @@
+WIE KANN ICH MEINE RAIPAY PIN SETZEN? WANN WIRD SIE VERWENDET?
+Die RaiPay PIN wird für die Überprüfung Ihrer Identität verwendet, z. B. bei Zahlungen über EUR
+50,- , bei Erreichen der Höchstgrenze für aufeinanderfolgende Kleinbetrags-Zahlungen (EUR
+125,-), zum Entsperren des Startscreens um Kartendetails, Kontostand oder Transaktionen zu
+sehen. Die RaiPay PIN ist eine vierstellige Zahl und kann zur einfacheren Bedienbarkeit von
+RaiPay durch ein biometrisches Erkennungsmerkmal (z.B. Fingerabdruck) ersetzt werden.

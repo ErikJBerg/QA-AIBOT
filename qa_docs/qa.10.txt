@@ -1,0 +1,6 @@
+POS TERMINAL/BANKOMAT ZEIGT AN: "KARTE KANN DERZEIT NICHT BEARBEITET WERDEN"
+Erscheint bei Zahlungen am POS Terminal oder beim Versuch mittels RaiPay Geld am
+Bankomaten zu beheben folgende Nachricht: „Karte kann derzeit nicht bearbeitet werden“, so
+könnte dies daran liegen, dass RaiPay nicht als Standard-App für die NFC Bezahlungen aktiviert
+ist. Folgen Sie dem angezeigten Hinweis bei Start der RaiPay App und hinterlegen Sie RaiPay
+als Standard App für die NFC Bezahlung.

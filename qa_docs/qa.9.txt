@@ -1,0 +1,6 @@
+DAS TELEFON ZEIGT DEN STATUS OK, ABER DIE ZAHLUNG WURDE ABGELEHNT. WAS IST PASSIERT?
+Für alle Zahlungen gilt ausnahmslos, dass Sie über ein ausreichendes Guthaben bzw. Limit der
+Karte verfügen müssen und dass die Karte aktiv sein muss, wenn Sie die Zahlung vornehmen.
+Wenn die Transaktion abgelehnt wurde, überprüfen Sie bitte, ob Sie diese Bedingungen erfüllt
+haben.
+Sollten Sie die Bedingungen erüllen, bitte versuchen Sie die Zahlung erneut.

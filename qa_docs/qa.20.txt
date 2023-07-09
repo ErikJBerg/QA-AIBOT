@@ -1,0 +1,3 @@
+WIE KANN ICH EINE KARTE FÜR MOBILES BEZAHLEN IN RAIPAY DEAKTIVIEREN?
+Wollen Sie eine bereits für die NFC Bezahlung aktivierte Karte nicht mehr für mobiles Zahlen
+verwenden, können Sie dies jederzeit in der Karten Detailanzeige deaktivieren.

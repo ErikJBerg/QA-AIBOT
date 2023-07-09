@@ -1,0 +1,5 @@
+Was passiert, wenn meine Debit- oder Kreditkarte abläuft? Kann ich die Anwendung dann noch nutzen?
+Wenn die Debit- oder Kreditkarte durch die Bank erneuert wird, müssen Sie die Karte nicht erneut
+in RaiPay hinzufügen oder aktivieren. Sie müssen vor dem Erreichen des Ablaufdatums die neue
+physische Karte einmal verwendet haben. Wenn die Karte nicht erneuert wird, steht sie nach
+Ablauf der Gültigkeit nicht mehr für mobile Zahlungen in RaiPay zur Verfügung.

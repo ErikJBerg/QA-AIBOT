@@ -1,0 +1,5 @@
+Kann ich mit RaiPay auch bei ausgeschaltetem NFC bezahlen?
+Das Einschalten der NFC-Antenne ist sowohl für Zahlungen bei stationären Händlern als auch für
+Abhebungen am Geldautomaten erforderlich. Ohne diese Verbindung kann die Anwendung nicht
+mit dem Terminal kommunizieren. Wir empfehlen, die NFC-Antenne eingeschaltet zu lassen, da
+sie den Akkuverbrauch Ihres Geräts nur unwesentlich belastet.

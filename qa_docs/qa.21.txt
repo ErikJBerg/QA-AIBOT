@@ -1,0 +1,5 @@
+WIE KANN ICH MEINE KUNDENKARTEN IN RAIPAY DIGITALISIEREN?
+Scannen Sie die physische Kundenkarte mit RaiPay ein oder ergänzen Sie die Kartennummer
+Ihrer Kund:innenkarte manuell. Bereits in der ELBA-pay App digitalisierte Kund:innenkarten
+werden automatisch in RaiPay übernommen. Zudem ist sichergestellt, dass auch beim Wechsel
+des Mobilgeräts bereits digitalisierte Kund:innenkarten erhalten bleiben.

@@ -1,0 +1,6 @@
+WIESO KANN ICH ALS IOS-NUTZER RAIPAY NICHT ALS ZAHLUNGSMÖGLICHKEIT NUTZEN?
+Apple behält sich aktuell vor, die NFC-Schnittstelle nur für seine eigenen Anwendungen wie
+Apple Pay zur Verfügung zu stellen.
+RaiPay bietet auch unter iOS die Möglichkeit P2P-Transaktionen ("Geld senden") durchzuführen,
+Kund:innenkarten zu speichern und die digitalen Händler:innenverbindungen einzusehen bzw.
+zukünftig zu verwalten.

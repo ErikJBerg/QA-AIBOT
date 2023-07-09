@@ -1,0 +1,4 @@
+WIE KANN ICH RAIPAY GANZ EINFACH ALS STANDARDANWENDUNG FÜR ZAHLUNGEN MIT DEM MOBILTELEFON EINRICHTEN?
+Klicken Sie in den Anwendungseinstellungen auf "Standard-App für Zahlungen". Alternativ
+können Sie dies auch direkt in den Einstellungen Ihres Mobiltelefons unter NFC und Zahlung
+anpassen.

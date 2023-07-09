@@ -1,0 +1,4 @@
+Woher weiß ich, ob ich RaiPay auf meinem Handy benutzen kann?
+RaiPay erfordert auf Ihrem Android Smartphone mindestens Android 7; auf Ihrem Apple Gerät
+mindestens iOS 12. RaiPay unterstützt sämtliche Hersteller:innen ohne Einschränkung. iOSNutzer:innen können RaiPay nicht für mobiles Bezahlen verwenden, hierfür kommt weiterhin
+Apple Pay zum Einsatz.

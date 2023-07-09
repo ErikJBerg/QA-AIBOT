@@ -1,0 +1,29 @@
+Hallo, ich bin der Chatbot der Raiffeisenbank. Ich gebe Ihnen kurze und relevante Antworten auf Ihre Fragen.
+Wie kann ich ihnen helfen?
+Frage: wie gehts
+ Guten Tag! Womit kann ich Ihnen heute helfen?
+Frage: bist sie gut?
+ Ja, danke, ich bin gut! Womit kann ich Ihnen heute im Bereich Banking helfen?
+
+Wie kann ich ihnen helfen?
+Frage: Ich wolte meinen karte blokieren
+ Um Ihre Karte zu blockieren, benötige ich bitte die Marke der Karte, die letzten 4-Ziffern und das Ablaufdatum. Außerdem benötige ich den Grund, warum Sie die Karte blockieren möchten (verloren / gestohlen). Haben Sie diese Informationen?
+Visa, zifren sinde 4583, Und datum ist 12.12.2024
+ Haben Sie den Grund für das Blockieren der Karte (verloren / gestohlen)?
+gestohlen
+Blocking Bank Card with customer information:  {'brand': 'Visa', 'last_4_digits': '4583', 'expiration_date': '12.12.2024', 'reason': 'gestohlen'}
+
+Wie kann ich ihnen helfen?
+Frage: Kan ich im Ausland mit raipay zahlen?
+ Ja, Sie können mit RaiPay auch im Ausland an Terminals kontaktlos bezahlen oder Bargeld an Geldautomaten abheben, die mit einem kontaktlosen Lesegerät ausgestattet sind. Das Verfahren ist das Gleiche wie in Österreich.
+Wie kann ich ihnen helfen?
+
+Frage: Konto Geoffnen
+ Um ein Konto zu eröffnen, benötige ich Informationen über das gewünschte Kontotyp (Giro- oder Spar Konto), den Namen des Kunden, die Adresse (Straße, Stadt, Postleitzahl, Land) und den Beruf des Kunden. Haben Sie alle Informationen bereit?
+Jack Nowak - die Programist, Spar Konto, meinen addresse ist Bayeren strasse 43 - Munich 1010
+Opening Bank Account with customer information:  {'account_type': 'Spar Konto', 'client_name': 'Jack Nowak', 'client_address': 'Bayeren strasse 43 - Munich 1010', 'client_job': 'Programist'}
+
+Hallo, ich bin der Chatbot der Raiffeisenbank. Ich gebe Ihnen kurze und relevante Antworten auf Ihre Fragen.
+Wie kann ich ihnen helfen?
+Frage: warum meinen bankomat sagst "KARTE KANN DERZEIT NICHT BEARBEITET WERDEN"
+ Es könnte daran liegen, dass RaiPay nicht als Standard-App für die NFC Bezahlungen aktiviert ist. Folgen Sie dem angezeigten Hinweis bei Start der RaiPay App und hinterlegen Sie RaiPay als Standard App für die NFC Bezahlung.

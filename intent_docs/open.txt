@@ -1,0 +1,4 @@
+Open Account
+In order to open an account, the operator needs to obtain the type of desired account (current or savings), the name of the client, the address of the client (street, city, postcode, country) and the job name of the client.
+Once all information is obtained, make an api call to https://openaccount.fake with all parameters as a json dictionary.
+The api returns “success” or “failure”

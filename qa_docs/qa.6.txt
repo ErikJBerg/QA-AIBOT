@@ -1,0 +1,10 @@
+WIE SOLLTE ICH DAS TELEFON IN DER NÄHE DES TERMINALS PLATZIEREN?
+Platzieren Sie die Rückseite des Telefons in der Nähe des Terminals, so dass sich die NFCAntenne so nah wie möglich am Terminal befindet. Bei Mobiltelefonen sind die NFC-Antennen
+unterschiedlich positioniert (die Position ist sogar bei verschiedenen Modellen derselben Marke
+leicht unterschiedlich), daher müssen Sie versuchen, die Position zu finden, die bei Ihrem 
+Mobiltelefon am besten funktioniert. In der Regel befindet sich die Antenne auf der Rückseite des
+Telefons (meist in der Nähe des Akkus oder der Kamera). Bei Telefonen mit einer schwächeren
+Antenne kann eine Handyhülle die Verbindung mit dem Terminal verhindern.
+Halten Sie das Telefon in die Nähe des Terminals bis das Telefon einen Signalton abgibt und der
+Bildschirm OK anzeigt.
+Die durchgeführte Zahlung ist in der Transaktionsübersicht der Anwendung zu sehen.

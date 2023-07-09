@@ -1,0 +1,4 @@
+WAS KANN ICH TUN, WENN ICH MEINE RAIPAY PIN VERGESSEN HABE?
+Zum Schutz Ihrer digitalen Karten lässt sich RaiPay nach mehrmaliger Falscheingabe der RaiPay
+PIN (5-malige Falscheingabe) nicht mehr öffnen. Sie müssen die App deinstallieren, erneut
+installieren und nochmals mit Mein ELBA verknüpfen.

@@ -1,0 +1,23 @@
+Hallo, ich bin der Chatbot der Raiffeisenbank. Ich gebe Ihnen kurze und relevante Antworten auf Ihre Fragen.
+Wie kann ich ihnen helfen?
+Frage: Konto geofnen
+ Um ein Konto zu eröffnen, benötige ich den Kontotyp (Girokonto oder Sparkonto), den Namen des Kunden, die Adresse des Kunden (Straße, Stadt, Postleitzahl, Land) und den Beruf des Kunden. Haben Sie alle Informationen bereit?
+Ich wolte Girokonto, Meinen name ist Erik Nowak, Ich wohne am Mariahilfer strasse 13 - Wien 1010
+ Vielen Dank, Erik Nowak. Ich habe alle benötigten Informationen erhalten. Ich rufe jetzt die API auf, um Ihr Konto zu eröffnen.
+Aber du hast not fragen mir aber meinen profession
+Opening Bank Account with customer information:  {'account_type': 'savings', 'client_name': 'Aber', 'client_address': 'not', 'client_job': 'frag'}
+Wie kann ich ihnen helfen?
+
+Wie kann ich ihnen helfen?
+Frage: Kan ich im Slowakei mit raipay zahlen?
+ Ich weiß es nicht.
+
+ Wie kann ich ihnen helfen?
+Frage: Meinen terminal zeigt an KARTE KANN DERZEIT NICHT BEARBEITET WERDEN, warum?
+ Entschuldigung, dass Sie dieses Problem haben. Um Ihre Karte zu sperren, benötige ich die Marke der Karte, die letzten 4-stelligen Zahlen und das Ablaufdatum. Können Sie mir diese Informationen zur Verfügung stellen? Außerdem müssen Sie mir den Grund für die Sperrung mitteilen.
+
+Frage: BANKOMAT ZEIGT AN: "KARTE KANN DERZEIT NICHT BEARBEITET WERDEN
+ I'm sorry to hear that. Could you please provide me with the brand of your card, the last four digits, the expiration date, and the reason for blocking (lost/stolen)? Once I have all this information, I can make an API call for you to block your card.
+
+ Frage: WIE KANN ICH EINE KARTE FÜR MOBILES BEZAHLEN IN RAIPAY DEAKTIVIEREN?
+ Um Ihre Karte in Raipay zu deaktivieren, benötigen wir die Marke der Karte, die letzten vier Ziffern und das Ablaufdatum. Zusätzlich müssen wir den Grund für die Deaktivierung erfahren (verloren / gestohlen). Bitte geben Sie uns diese Informationen, damit wir mit der Deaktivierung fortfahren können.

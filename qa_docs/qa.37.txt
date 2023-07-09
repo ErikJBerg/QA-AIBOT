@@ -1,0 +1,9 @@
+Brauche ich eine Internetverbindung, um RaiPay nutzen zu können?
+Eine Daten- oder Wi-Fi-Internetverbindung ist erforderlich, um eine Verbindung zwischen RaiPay
+und der Mein ELBA-App zum Laden der Karten zu ermöglichen und Karten für die Bezahlung zu
+aktivieren (beim Registriervorgang von RaiPay).
+Sie müssen nicht online sein, wenn Sie Zahlungen oder Bargeldbehebungen vornehmen. Sie
+müssen nur Ihre NFC-Antenne einschalten (wir empfehlen Ihnen, die NFC-Antenne eingeschaltet
+zu lassen, da sie nicht mehr Energie verbraucht). Öffnen Sie die Anwendung von Zeit zu Zeit,
+wenn Sie online sind, damit die für die Zahlungen erforderlichen Sicherheitsschlüssel aktualisiert
+werden können (die Anzahl der Schlüssel im Telefon ist begrenzt).

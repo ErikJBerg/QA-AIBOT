@@ -1,0 +1,269 @@
+WAS IST RAIPAY?
+RaiPay ist unsere neue Mobile Payment App zum schnellen und bequemen Bezahlen mit dem
+Smartphone. RaiPay löst die bisherige ELBA-pay App ab.
+
+WAS KOSTET DIE NUTZUNG VON RAIPAY?
+Es fallen keine Kosten für die Einrichtung oder Nutzung von RaiPay an.
+
+WELCHE VORAUSSETZUNGEN BRAUCHE ICH FÜR DIE NUTZUNG VON RAIPAY?
+Um RaiPay nutzen zu können benötigen Sie Folgendes:
+• Ein Raiffeisen Konto mit einer Debitkarte oder eine Raiffeisen Kreditkarte
+• Ein Smartphone mit Android (7+) oder iOS (12+)
+
+WO KANN ICH MIT RAIPAY BEZAHLEN?
+Sie können RaiPay nutzen, wo Sie auch schon jetzt mit Ihrer Karte kontaktlos bezahlen können.
+
+WIE ZAHLE ICH MIT RAIPAY IM GESCHÄFT (ZAHLUNG MIT RAIPAY NUR UNTER ANDROID MÖGLICH)?
+RaiPay bietet Kund:innen standardmäßig die Möglichkeit smart zu bezahlen (Standardeinstellung
+Smart bezahlen).
+• Smart bezahlen – volle Flexibilität für unsere Kund:innen
+Beträge bis EUR 50,- können mit bloßem Hinhalten des Smartphones (aufgewecktes
+Display) bezahlt werden. Höhere Beträge müssen durch Autorisierung freigegeben
+werden.
+Die Bezahlung startet in RaiPay und wird mit dem Button „Jetzt bezahlen“ und Hinhalten
+des Smartphones freigegeben.
+Zusätzlich zu smart bezahlen stehen noch zwei weitere Zahlungs-Einstellungen zur
+Verfügung:
+• Schnell bezahlen (zusätzliche Option)
+Beträge bis EUR 50,- können mit bloßem Hinhalten des Smartphones (aufgewecktes
+Display) bezahlt werden.
+Höhere Beträge müssen durch Autorisierung (mittels weniger Klicks am Smartphone) und
+erneutes Hinhalten an das POS Terminal freigegeben werden.
+Der Button „Jetzt bezahlen“ fällt weg.
+• Jede Zahlung in RaiPay freigeben (zusätzliche Option)
+Sämtliche Beträge werden mit dem Button „Jetzt bezahlen“ und Hinhalten an das POS
+Terminal freigegeben.
+
+WIESO KANN ICH ALS IOS-NUTZER RAIPAY NICHT ALS ZAHLUNGSMÖGLICHKEIT NUTZEN?
+Apple behält sich aktuell vor, die NFC-Schnittstelle nur für seine eigenen Anwendungen wie
+Apple Pay zur Verfügung zu stellen.
+RaiPay bietet auch unter iOS die Möglichkeit P2P-Transaktionen ("Geld senden") durchzuführen,
+Kund:innenkarten zu speichern und die digitalen Händler:innenverbindungen einzusehen bzw.
+zukünftig zu verwalten.
+
+WIE SOLLTE ICH DAS TELEFON IN DER NÄHE DES TERMINALS PLATZIEREN?
+Platzieren Sie die Rückseite des Telefons in der Nähe des Terminals, so dass sich die NFCAntenne so nah wie möglich am Terminal befindet. Bei Mobiltelefonen sind die NFC-Antennen
+unterschiedlich positioniert (die Position ist sogar bei verschiedenen Modellen derselben Marke
+leicht unterschiedlich), daher müssen Sie versuchen, die Position zu finden, die bei Ihrem 
+Mobiltelefon am besten funktioniert. In der Regel befindet sich die Antenne auf der Rückseite des
+Telefons (meist in der Nähe des Akkus oder der Kamera). Bei Telefonen mit einer schwächeren
+Antenne kann eine Handyhülle die Verbindung mit dem Terminal verhindern.
+Halten Sie das Telefon in die Nähe des Terminals bis das Telefon einen Signalton abgibt und der
+Bildschirm OK anzeigt.
+Die durchgeführte Zahlung ist in der Transaktionsübersicht der Anwendung zu sehen.
+
+KANN ICH MIT RAIPAY AUCH IM AUSLAND ZAHLEN?
+Ja, Sie können mit RaiPay auch im Ausland an Terminals kontaktlos bezahlen oder Bargeld an
+Geldautomaten abheben, die mit einem kontaktlosen Lesegerät ausgestattet sind. Das Verfahren
+ist das Gleiche wie in Österreich.
+
+WIE HOCH IST DAS ZAHLUNGSLIMIT?
+Für Zahlungen, die mit einem Mobiltelefon getätigt werden, gelten die gleiche Limite, die Sie mit
+Ihrer Debitkarte vereinbart haben.
+
+DAS TELEFON ZEIGT DEN STATUS OK, ABER DIE ZAHLUNG WURDE ABGELEHNT. WAS IST PASSIERT?
+Für alle Zahlungen gilt ausnahmslos, dass Sie über ein ausreichendes Guthaben bzw. Limit der
+Karte verfügen müssen und dass die Karte aktiv sein muss, wenn Sie die Zahlung vornehmen.
+Wenn die Transaktion abgelehnt wurde, überprüfen Sie bitte, ob Sie diese Bedingungen erfüllt
+haben.
+Sollten Sie die Bedingungen erüllen, bitte versuchen Sie die Zahlung erneut.
+
+POS TERMINAL/BANKOMAT ZEIGT AN: "KARTE KANN DERZEIT NICHT BEARBEITET WERDEN"
+Erscheint bei Zahlungen am POS Terminal oder beim Versuch mittels RaiPay Geld am
+Bankomaten zu beheben folgende Nachricht: „Karte kann derzeit nicht bearbeitet werden“, so
+könnte dies daran liegen, dass RaiPay nicht als Standard-App für die NFC Bezahlungen aktiviert
+ist. Folgen Sie dem angezeigten Hinweis bei Start der RaiPay App und hinterlegen Sie RaiPay
+als Standard App für die NFC Bezahlung.
+
+WIE KANN ICH MIT RAIPAY GELD ABHEBEN?
+Starten Sie die Bargeldbehebung in der geöffneten RaiPay App mit „Jetzt bezahlen“ und halten
+Sie Ihr Android Smartphone an das NFC Symbol am Bankomaten.
+
+KANN ICH DIE "GELD SENDEN"-FUNKTION FÜR JEGLICHE KARTEN VERWENDEN?
+Mit dieser Funktion senden Sie schnell und bequem Geld an eine gewünschte österreichische
+Empfänger:innenkarte (Debit- und/oder Kreditkarte). Es ist keine Registrierung des:der
+Zahlungsempfänger:in nötig.
+
+GIBT ES EINE FUNKTION "GELD ANFORDERN"?
+Eine derartige Funktion steht in RaiPay nicht zur Verfügung.
+
+KANN ICH MITTELS DER FUNKTION "GELD SENDEN" GELD AN EINE DIGITALE DEBITKARTE SENDEN?
+Diese Funktion ist aktuell nicht im Funktionsumfang von RaiPay enthalten.
+
+KANN ICH JEDE KARTE ZU RAIPAY HINZUFÜGEN?
+Derzeit können Sie alle Raiffeisen Debitkarten (Maestro oder Debit Mastercard) und Raiffeisen
+Kreditkarten in RaiPay verwenden. Raiffeisen Kreditkarten von PayLife und CardComplete
+werden nicht von RaiPay unterstützt.
+
+KANN ICH MEHRERE KARTEN DER GLEICHEN ART IN DER APPLIKATION SPEICHERN?
+Ja, Sie können mehrere von Ihrer Raiffeisenbank ausgegebene Debit- oder Raiffeisen
+Kreditkarten in RaiPay anzeigen sowie für die Bezahlung aktivieren. Sie können die Karten in der
+Anwendung anhand ihres Bildes und ihres Kartentyps oder anhand der letzten vier Ziffern der
+Kartennummer unterscheiden. In der Detailansicht Ihrer Karte, zu der Sie durch ein Tippen auf
+die jeweilige Karte gelangen, können Sie den Namen der Karte ändern.
+Für eine Bezahlung wird immer jene Karte verwendet, die als Standardkarte für Zahlungen
+festgelegt wurde. Die Standardkarte kann in der Kartendetailansicht geändert werden. Es sei
+denn, Sie öffnen die Anwendung im Vordergrund und wählen eine andere Karte aus und starten
+die Bezahlung mit „Jetzt bezahlen“
+Karte schnell im Zuge des Zahlvorgangs ändern: Wenn Sie im Zuge Ihres Einkaufes eine andere
+als Ihre Standardkarte verwenden möchten, öffnen Sie einfach die RaiPay App und navigieren
+zur gewünschten Karte im „Karten Karussell“. Durch Starten der Bezahlung mittels Tippens auf
+„Jetzt bezahlen“ wird die gewählte Karte einmalig zur Zahlung verwendet.
+
+ICH HABE MEHRERE DEBIT- ODER KREDITKARTEN IN RAIPAY DIGITALISIERT. WIE KANN MAN EINSTELLEN, WELCHE KARTE FÜR NFC-ZAHLUNGEN VERWENDET WIRD?
+Wählen Sie einfach die von Ihnen bevorzugte Karte in der Karten-Übersicht aus, die für NFC
+Zahlungen verwendet werden soll, und klicken Sie „Digitale Karte aktivieren“. So können Sie
+selbst steuern, ob Sie nur eine oder alle Ihre Karten in RaiPay für die NFC Bezahlung aktivieren.
+
+IST ES NOTWENDIG JEDE NEUE KARTE ZU VERIFIZIEREN, DIE IN RAIPAY HINZUGEFÜGT
+WIRD?
+Sobald Sie eine weitere physische Karte von Ihrer Bank erhalten, so ist diese automatisch in
+RaiPay ersichtlich, sobald Sie die physische Karte das erste Mal an einem POS oder
+Geldautomaten durch die Eingabe Ihrer PIN aktivieren. Eine Aktivierung der Karte für mobiles
+Bezahlen erfolgt mittels „Digitale Karte aktivieren“ unter Bestätigung mittels RaiPay PIN in der
+RaiPay App.
+
+IST ES SICHER EINE KARTE ZU RAIPAY HINZUZUFÜGEN?
+Die Verknüpfung zwischen RaiPay und der Mein ELBA-App erfolgt mittels der 2-FaktorAuthentifizierung, welche Kund:innen mit ihrer Bank vereinbart haben und entspricht sämtlichen
+technischen und regulatorischen Sicherheitsmerkmalen. Durch diese Verknüpfung werden Ihre
+Karten verschlüsselt in RaiPay angezeigt und können auf Android Smartphones für die NFC
+Bezahlung verwendet werden.
+
+WIE KANN ICH EINE KARTE FÜR MOBILES BEZAHLEN IN RAIPAY DEAKTIVIEREN?
+Wollen Sie eine bereits für die NFC Bezahlung aktivierte Karte nicht mehr für mobiles Zahlen
+verwenden, können Sie dies jederzeit in der Karten Detailanzeige deaktivieren.
+
+WIE KANN ICH MEINE KUNDENKARTEN IN RAIPAY DIGITALISIEREN?
+Scannen Sie die physische Kundenkarte mit RaiPay ein oder ergänzen Sie die Kartennummer
+Ihrer Kund:innenkarte manuell. Bereits in der ELBA-pay App digitalisierte Kund:innenkarten
+werden automatisch in RaiPay übernommen. Zudem ist sichergestellt, dass auch beim Wechsel
+des Mobilgeräts bereits digitalisierte Kund:innenkarten erhalten bleiben.
+
+WERDEN ALLE MEINE KARTEN IN DER RAIPAY APP ANGEZEIGT?
+In RaiPay werden alle Karten angezeigt, für die Sie Karteninhaber:in sind. Sie können aber
+wahlweise nur jene Karten für die NFC Bezahlung (Android) aktivieren, die Sie für mobiles
+Bezahlen verwenden möchten.
+
+IST ES SICHER MIT RAIPAY ZU BEZAHLEN?
+Bezahlen mit RaiPay ist absolut sicher, da die gleichen hohen Sicherheitsstandards verwendet
+werden, an die Raiffeisenkund:innen bei Kartenbezahlungen gewöhnt sind.
+
+KANN ICH UNABSICHTLICH IM VORÜBERGEHEN MIT RAIPAY BEZAHLEN?
+Eine unbeabsichtigte Zahlung im Vorübergehen kann nicht erfolgen, da das Smartphone Display
+dazu aufgeweckt werden muss. RaiPay bietet die gleichen hohen Sicherheits-Standards, die Sie
+bereits von Ihrer physischen Debitkarte gewohnt sind.
+
+WO WERDEN MEINE DATEN GESPEICHERT?
+Detaillierte Informationen zur Datenverarbeitung entnehmen Sie bitte unserer Website.
+
+WIE KANN ICH MEINE RAIPAY PIN SETZEN? WANN WIRD SIE VERWENDET?
+Die RaiPay PIN wird für die Überprüfung Ihrer Identität verwendet, z. B. bei Zahlungen über EUR
+50,- , bei Erreichen der Höchstgrenze für aufeinanderfolgende Kleinbetrags-Zahlungen (EUR
+125,-), zum Entsperren des Startscreens um Kartendetails, Kontostand oder Transaktionen zu
+sehen. Die RaiPay PIN ist eine vierstellige Zahl und kann zur einfacheren Bedienbarkeit von
+RaiPay durch ein biometrisches Erkennungsmerkmal (z.B. Fingerabdruck) ersetzt werden.
+
+Kann ich RaiPay mittels Fingerabdruck öffnen?
+Es besteht die Möglichkeit die RaiPay PIN durch ein biometrisches Erkennungsmerkmal (z.B.
+Fingerabdruck, Gesichtserkennung) zu ersetzen, wenn Ihr Smartphone die technischen
+Voraussetzungen bietet.
+
+WAS KANN ICH TUN, WENN ICH MEINE RAIPAY PIN VERGESSEN HABE?
+Zum Schutz Ihrer digitalen Karten lässt sich RaiPay nach mehrmaliger Falscheingabe der RaiPay
+PIN (5-malige Falscheingabe) nicht mehr öffnen. Sie müssen die App deinstallieren, erneut
+installieren und nochmals mit Mein ELBA verknüpfen.
+
+IST ES MÖGLICH, DAS ERSCHEINUNGSBILD DER ANWENDUNG ANZUPASSEN?
+RaiPay unterstützt den "Darkmode", um die Augen zu schonen. Die Grundeinstellung von RaiPay
+passt sich den Systemeinstellungen des Smartphones an. Sie können dies jedoch in den
+Einstellungen der App unter "Anzeige" ändern und den Hell-Modus für RaiPay auswählen.
+
+ICH MÖCHTE NICHT, DASS MEIN KONTOSTAND IN DER RAIPAY APP ANGEZEIGT WIRD ("VERFÜGBARER BETRAG").
+Sie können die Anzeige des Kontostands ("Verfügbarer Betrag") jederzeit im Einstellungsmenü
+der RaiPay App deaktivieren.
+
+KANN ICH DIE RAIPAY PIN IM NACHHINEIN NOCH ÄNDERN?
+Sollte Ihre RaiPay PIN ausgespäht worden sein, so können Sie diese in den Einstellungen unter
+"Sicherheit und PIN" ändern oder wahlweise ein biometrisches Erkennungsmerkmal (z.B.
+Fingerabdruck) aktivieren.
+
+WIE KANN ICH RAIPAY GANZ EINFACH ALS STANDARDANWENDUNG FÜR ZAHLUNGEN MIT DEM MOBILTELEFON EINRICHTEN?
+Klicken Sie in den Anwendungseinstellungen auf "Standard-App für Zahlungen". Alternativ
+können Sie dies auch direkt in den Einstellungen Ihres Mobiltelefons unter NFC und Zahlung
+anpassen.
+
+WARUM IST RAIPAY NICHT MIT DEM ENTWICKLER:INNENMODUS AUF MEINEM SMARTPHONE KOMPATIBEL?
+Die aktuellen Sicherheitseinstellungen der RaiPay App erlauben keine App Nutzung mit
+aktiviertem Entwickler:innenmodus am Smartphone. Wir arbeiten aber bereits an einer
+zukünftigen Aufhebung dieser Einschränkung um das RaiPay Nutzererlebnis für unsere
+Kund:innen noch weiter zu verbessern.
+
+WARUM BENÖTIGT RAIPAY DIE BERECHTIGUNG FÜR "TELEFON"?
+Diese Berechtigung wird benötigt, um Ihr Gerät eindeutig identifizieren zu können. In einer
+Bezahl-App ist die maximale Sicherheit oberste Priorität. RaiPay tätigt keine Anrufe und greift
+auch nicht auf Ihre Kontakte zu.
+
+Woher weiß ich, ob ich RaiPay auf meinem Handy benutzen kann?
+RaiPay erfordert auf Ihrem Android Smartphone mindestens Android 7; auf Ihrem Apple Gerät
+mindestens iOS 12. RaiPay unterstützt sämtliche Hersteller:innen ohne Einschränkung. iOSNutzer:innen können RaiPay nicht für mobiles Bezahlen verwenden, hierfür kommt weiterhin
+Apple Pay zum Einsatz.
+
+Kann ich RaiPay auf mehreren Telefonen installieren?
+Ja, Sie können die Anwendung auf mehreren Telefonen installieren. Sie müssen die Karten
+lediglich auf jedem Telefon hinzufügen und aktivieren. Ihre bereits auf einem anderen
+Mobiltelefon hinzugefügten Kund:innenkarten werden Ihnen automatisch auf dem neuen
+Smartphone wieder angezeigt.
+
+Brauche ich eine Internetverbindung, um RaiPay nutzen zu können?
+Eine Daten- oder Wi-Fi-Internetverbindung ist erforderlich, um eine Verbindung zwischen RaiPay
+und der Mein ELBA-App zum Laden der Karten zu ermöglichen und Karten für die Bezahlung zu
+aktivieren (beim Registriervorgang von RaiPay).
+Sie müssen nicht online sein, wenn Sie Zahlungen oder Bargeldbehebungen vornehmen. Sie
+müssen nur Ihre NFC-Antenne einschalten (wir empfehlen Ihnen, die NFC-Antenne eingeschaltet
+zu lassen, da sie nicht mehr Energie verbraucht). Öffnen Sie die Anwendung von Zeit zu Zeit,
+wenn Sie online sind, damit die für die Zahlungen erforderlichen Sicherheitsschlüssel aktualisiert
+werden können (die Anzahl der Schlüssel im Telefon ist begrenzt).
+
+Kann ich mit RaiPay auch bei ausgeschaltetem NFC bezahlen?
+Das Einschalten der NFC-Antenne ist sowohl für Zahlungen bei stationären Händlern als auch für
+Abhebungen am Geldautomaten erforderlich. Ohne diese Verbindung kann die Anwendung nicht
+mit dem Terminal kommunizieren. Wir empfehlen, die NFC-Antenne eingeschaltet zu lassen, da
+sie den Akkuverbrauch Ihres Geräts nur unwesentlich belastet.
+
+Was passiert, wenn meine Debit- oder Kreditkarte abläuft? Kann ich die Anwendung dann noch nutzen?
+Wenn die Debit- oder Kreditkarte durch die Bank erneuert wird, müssen Sie die Karte nicht erneut
+in RaiPay hinzufügen oder aktivieren. Sie müssen vor dem Erreichen des Ablaufdatums die neue
+physische Karte einmal verwendet haben. Wenn die Karte nicht erneuert wird, steht sie nach
+Ablauf der Gültigkeit nicht mehr für mobile Zahlungen in RaiPay zur Verfügung.
+
+Was passiert, wenn ich mein Mobiltelefon mit installierter RaiPay App verloren habe?
+Wir empfehlen Ihnen, die Kartensperrhotline anzurufen. Auf Ihren Wunsch hin werden wir die
+digitale Debitkarte Ihres Smartphones sperren, um Missbrauch zu verhindern.
+
+Was passiert, wenn ich die physische Karte verloren habe?
+Um Ihre physische Karte zu sperren, rufen Sie unsere Kartensperrhotline an oder kontaktieren
+Sie Ihren:Ihre Raiffeisenberater:in. Sofern Sie die digitale Debitkarte Ihres Smartphones nicht
+auch sperren lassen, können Sie weiterhin mit Ihrem Smartphone mobil bezahlen.
+
+Wie kann ich mobile Zahlungen auf dem Kontoauszug oder in der Transaktionsübersicht erkennen?
+Durchgeführte Zahlungen oder Abhebungen an einem Geldausgabeautomaten werden Ihnen auf
+Kontoauszügen, im Onlinebanking von Mein ELBA, sowie in RaiPay dargestellt.
+Eine Zahlung oder Behebung mit einer physischen Karte wird mit einem „K“ und der jeweiligen
+Kartenfolgenummer bspw. K1 dargestellt. Digitale Zahlungen mit einem „D“ und der jeweiligen
+Nummer gekennzeichnet sind bspw. D1.
+Zusätzlich bietet RaiPay die Möglichkeit in der Transaktionsübersicht nach Zahlungen zu filtern,
+die Sie nur mit RaiPay getätigt haben. Anhand des Symbols vor der Zahlung können Sie
+unterscheiden, ob die Zahlung mit einer digitalen Karte, im Internet bei Online Händler:innen
+(nicht durch RaiPay unterstützt), oder eine Behebung am Geldausgabeautomaten stattgefunden
+hat.
+
+Kann ich meine Zahlungen in der Applikation sehen?
+Nach jeder erfolgreich durchgeführten Transaktion zeigt RaiPay Informationen über die
+Transaktion an (Datum und Uhrzeit, Betrag und den Status usw). Sollten Sie sich unsicher sein,
+dann kontaktieren Sie bitte die ELBA-Hotline.
+
+Warum wird die physische Kartennummer nicht auf den Rechnungen aufgedruckt?
+Wenn Sie mit Ihrer digitalen Debitkarte bezahlen, so hat Ihre digitale Debitkarteeine digitale
+Kartennummer. Die letzten 4 Stellen dieser digitalen Kartennummer finden Sie in den
+Kartendetails Ihrer Karte in RaiPay und können diese 4 Stellen mit den letzten 4 Stellen der
+Kartennummer am Kassenbon vergleichen.

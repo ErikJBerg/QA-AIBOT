@@ -1,0 +1,5 @@
+IST ES SICHER EINE KARTE ZU RAIPAY HINZUZUFÜGEN?
+Die Verknüpfung zwischen RaiPay und der Mein ELBA-App erfolgt mittels der 2-FaktorAuthentifizierung, welche Kund:innen mit ihrer Bank vereinbart haben und entspricht sämtlichen
+technischen und regulatorischen Sicherheitsmerkmalen. Durch diese Verknüpfung werden Ihre
+Karten verschlüsselt in RaiPay angezeigt und können auf Android Smartphones für die NFC
+Bezahlung verwendet werden.

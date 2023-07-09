@@ -1,0 +1,11 @@
+Wie kann ich mobile Zahlungen auf dem Kontoauszug oder in der Transaktionsübersicht erkennen?
+Durchgeführte Zahlungen oder Abhebungen an einem Geldausgabeautomaten werden Ihnen auf
+Kontoauszügen, im Onlinebanking von Mein ELBA, sowie in RaiPay dargestellt.
+Eine Zahlung oder Behebung mit einer physischen Karte wird mit einem „K“ und der jeweiligen
+Kartenfolgenummer bspw. K1 dargestellt. Digitale Zahlungen mit einem „D“ und der jeweiligen
+Nummer gekennzeichnet sind bspw. D1.
+Zusätzlich bietet RaiPay die Möglichkeit in der Transaktionsübersicht nach Zahlungen zu filtern,
+die Sie nur mit RaiPay getätigt haben. Anhand des Symbols vor der Zahlung können Sie
+unterscheiden, ob die Zahlung mit einer digitalen Karte, im Internet bei Online Händler:innen
+(nicht durch RaiPay unterstützt), oder eine Behebung am Geldausgabeautomaten stattgefunden
+hat.

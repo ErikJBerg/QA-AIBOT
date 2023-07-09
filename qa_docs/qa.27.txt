@@ -1,0 +1,4 @@
+Kann ich RaiPay mittels Fingerabdruck öffnen?
+Es besteht die Möglichkeit die RaiPay PIN durch ein biometrisches Erkennungsmerkmal (z.B.
+Fingerabdruck, Gesichtserkennung) zu ersetzen, wenn Ihr Smartphone die technischen
+Voraussetzungen bietet.

@@ -1,0 +1,4 @@
+ICH HABE MEHRERE DEBIT- ODER KREDITKARTEN IN RAIPAY DIGITALISIERT. WIE KANN MAN EINSTELLEN, WELCHE KARTE FÜR NFC-ZAHLUNGEN VERWENDET WIRD?
+Wählen Sie einfach die von Ihnen bevorzugte Karte in der Karten-Übersicht aus, die für NFC
+Zahlungen verwendet werden soll, und klicken Sie „Digitale Karte aktivieren“. So können Sie
+selbst steuern, ob Sie nur eine oder alle Ihre Karten in RaiPay für die NFC Bezahlung aktivieren.

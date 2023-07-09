@@ -1,0 +1,4 @@
+Kann ich meine Zahlungen in der Applikation sehen?
+Nach jeder erfolgreich durchgeführten Transaktion zeigt RaiPay Informationen über die
+Transaktion an (Datum und Uhrzeit, Betrag und den Status usw). Sollten Sie sich unsicher sein,
+dann kontaktieren Sie bitte die ELBA-Hotline.

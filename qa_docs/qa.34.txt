@@ -1,0 +1,4 @@
+WARUM BENÖTIGT RAIPAY DIE BERECHTIGUNG FÜR "TELEFON"?
+Diese Berechtigung wird benötigt, um Ihr Gerät eindeutig identifizieren zu können. In einer
+Bezahl-App ist die maximale Sicherheit oberste Priorität. RaiPay tätigt keine Anrufe und greift
+auch nicht auf Ihre Kontakte zu.

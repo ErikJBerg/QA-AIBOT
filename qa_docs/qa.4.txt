@@ -1,0 +1,20 @@
+WIE ZAHLE ICH MIT RAIPAY IM GESCHÄFT (ZAHLUNG MIT RAIPAY NUR UNTER ANDROID MÖGLICH)?
+RaiPay bietet Kund:innen standardmäßig die Möglichkeit smart zu bezahlen (Standardeinstellung
+Smart bezahlen).
+• Smart bezahlen – volle Flexibilität für unsere Kund:innen
+Beträge bis EUR 50,- können mit bloßem Hinhalten des Smartphones (aufgewecktes
+Display) bezahlt werden. Höhere Beträge müssen durch Autorisierung freigegeben
+werden.
+Die Bezahlung startet in RaiPay und wird mit dem Button „Jetzt bezahlen“ und Hinhalten
+des Smartphones freigegeben.
+Zusätzlich zu smart bezahlen stehen noch zwei weitere Zahlungs-Einstellungen zur
+Verfügung:
+• Schnell bezahlen (zusätzliche Option)
+Beträge bis EUR 50,- können mit bloßem Hinhalten des Smartphones (aufgewecktes
+Display) bezahlt werden.
+Höhere Beträge müssen durch Autorisierung (mittels weniger Klicks am Smartphone) und
+erneutes Hinhalten an das POS Terminal freigegeben werden.
+Der Button „Jetzt bezahlen“ fällt weg.
+• Jede Zahlung in RaiPay freigeben (zusätzliche Option)
+Sämtliche Beträge werden mit dem Button „Jetzt bezahlen“ und Hinhalten an das POS
+Terminal freigegeben.

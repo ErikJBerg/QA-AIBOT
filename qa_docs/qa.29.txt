@@ -1,0 +1,4 @@
+IST ES MÖGLICH, DAS ERSCHEINUNGSBILD DER ANWENDUNG ANZUPASSEN?
+RaiPay unterstützt den "Darkmode", um die Augen zu schonen. Die Grundeinstellung von RaiPay
+passt sich den Systemeinstellungen des Smartphones an. Sie können dies jedoch in den
+Einstellungen der App unter "Anzeige" ändern und den Hell-Modus für RaiPay auswählen.
